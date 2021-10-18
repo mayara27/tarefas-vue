@@ -16,3 +16,4 @@ npm install
 ```
 npm run serve
 ```
+> Após rodar o servidor basta acessar a página: localhost:8080
