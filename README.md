@@ -1,4 +1,4 @@
-# to-do App
+# To-Do App
 
 ## Sobre
 
